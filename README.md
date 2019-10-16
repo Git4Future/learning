@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### 谢谢赞助的ta们
 <table>
       <tbody>
@@ -118,3 +119,6 @@
 关注微信公众号，领取 Java 精选干货学习资料
 
 <img width="300" src="http://www.bysocket.com/wp-content/uploads/2017/01/qrcode_for_gh_cd421e7eb7d6_430.jpg">
+=======
+# learning
+>>>>>>> 4df0f9de78d7738c8324591480e51d9f3ff0898c
